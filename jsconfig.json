@@ -1,0 +1,7 @@
+{
+    "compailerOptions": {
+        "baseUrl": "src"
+    },
+    "include":["src/**/*"],
+    "exclude": ["node_modules"]
+}
